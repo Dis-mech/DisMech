@@ -2,16 +2,9 @@
 
 Hey there! this is my first website using git pages.
 
-Hybrid Equations Toolbox
+Dismech stands for Discrete-Mechanics. It is a codebase which has been developed to simulate complex soft structures that can be modeled/represented as flexible rods, plates or shells or a network of these basic building block elements. The code is user-friendly and modular and can be easily used to simulate different kind of physical biological structures/ soft robots and so on.
 
-The Hybrid Equation (HyEQ) Toolbox provides methods in MATLAB and Simulink for computing and plotting numerical solutions to hybrid dynamical systems.
-Contents 
+This website is intended to make available this resource that we have developed at the [Structure Computer Interaction Lab](https://structures.computer/) at UCLA to the larger community of interested researchers.
+The various sections that follow will go over the steps to be able use the code for your own requirements. We have also included some example simulation cases which will help you understand the process better. 
 
-Where to Start:
-
-Depending on your prior experience one of the following pages would be a good place to start learning how to use the HyEQ Toolbox.
-If you are unfamiliar with hybrid systems, read [Introduction to Hybrid Systems](https://hyeq.github.io/intro-to-hybrid-systems) for a brief introduction to the mathematical modeling of hybrid systems.
-
-For users of HyEQ Toolbox version 2.40 (and earlier versions), see the guide to quickly converting old code to use new features .
-All others should start with the documentation for the HyEQ MATLAB library or the HyEQ Simulink library .
-A full list of HyEQ Toolbox help pages is given below. 
+The multirod code can be found here: [gitrepo for the matlab version](https://github.com/Radha-Lahoti/DER-Matlab-MultiRod)
