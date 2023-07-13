@@ -1,4 +1,4 @@
-# dismech_website_repo
+# DisMech
 
 Hey there! this is my first website using git pages.
 
